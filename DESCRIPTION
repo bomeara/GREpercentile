@@ -1,0 +1,9 @@
+Package: GREpercentile
+Type: Package
+Title: Convert GRE scores to percentiles
+Version: 1.0
+Date: 2016-01-05
+Author: Brian O'Meara
+Maintainer: Brian O'Meara <omeara.brian@gmail.com>
+Description: This uses by default the scores from the 2015-2016 GRE test. Note it is NOT sanctioned, authorized, endorsed, or in any way approved by ETS or the GRE: it's a simple utility function I wrote.
+License: GPL2.0
